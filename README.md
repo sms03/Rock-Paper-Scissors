@@ -1,2 +1,2 @@
-# Rock Paper Scissors
- CPP Credit Activity (Mini Game)
+# Rock // Paper // Scissors
+ CPP Credit Activity (Mini-Game)
